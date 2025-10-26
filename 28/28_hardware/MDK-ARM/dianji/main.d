@@ -1,4 +1,4 @@
-dianji\main.o: ..\Core\Src\main.c
+dianji\main.o: ../Core/Src/main.c
 dianji\main.o: ../Core/Inc/main.h
 dianji\main.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h
 dianji\main.o: ../Core/Inc/stm32f4xx_hal_conf.h
@@ -7,7 +7,7 @@ dianji\main.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_def.h
 dianji\main.o: ../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h
 dianji\main.o: ../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f446xx.h
 dianji\main.o: ../Drivers/CMSIS/Include/core_cm4.h
-dianji\main.o: D:\Keil\ARM\ARMCC\Bin\..\include\stdint.h
+dianji\main.o: D:\Program\Software\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
 dianji\main.o: ../Drivers/CMSIS/Include/cmsis_version.h
 dianji\main.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
 dianji\main.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
@@ -15,7 +15,7 @@ dianji\main.o: ../Drivers/CMSIS/Include/mpu_armv7.h
 dianji\main.o: ../Drivers/CMSIS/Device/ST/STM32F4xx/Include/system_stm32f4xx.h
 dianji\main.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h
 dianji\main.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h
-dianji\main.o: D:\Keil\ARM\ARMCC\Bin\..\include\stddef.h
+dianji\main.o: D:\Program\Software\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
 dianji\main.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h
 dianji\main.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio.h
 dianji\main.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio_ex.h
@@ -43,7 +43,7 @@ dianji\main.o: ../Core/Inc/usart.h
 dianji\main.o: ../Core/Inc/gpio.h
 dianji\main.o: ../Core/Inc/i2c.h
 dianji\main.o: ../Core/Inc/mpu6500.h
-dianji\main.o: D:\Keil\ARM\ARMCC\Bin\..\include\string.h
-dianji\main.o: D:\Keil\ARM\ARMCC\Bin\..\include\stdio.h
-dianji\main.o: D:\Keil\ARM\ARMCC\Bin\..\include\math.h
-dianji\main.o: D:\Keil\ARM\ARMCC\Bin\..\include\stdlib.h
+dianji\main.o: D:\Program\Software\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+dianji\main.o: D:\Program\Software\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+dianji\main.o: D:\Program\Software\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+dianji\main.o: D:\Program\Software\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h

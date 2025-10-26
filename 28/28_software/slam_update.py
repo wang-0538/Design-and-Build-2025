@@ -10,7 +10,7 @@ from dataclasses import dataclass
 from typing import List, Tuple
 
 # ========== 蓝牙参数 ==========
-ROBOT_ADDRESS = "C4:25:02:08:02:21"
+ROBOT_ADDRESS = "C4:25:02:08:02:21" # 我们小车的蓝牙mac地址
 UART_UUID = "0000ffe1-0000-1000-8000-00805f9b34fb"
 
 # ========== 模拟模式参数 ==========
@@ -1437,7 +1437,6 @@ async def step_by_step_test():
 if __name__ == "__main__":
     import sys
     
-    # 简单的命令行参数
     if len(sys.argv) > 1:
         if sys.argv[1] == 'test':
             # 测试模式：测试雷达命令

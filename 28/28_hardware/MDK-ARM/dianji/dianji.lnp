@@ -1,5 +1,6 @@
 --cpu=Cortex-M4.fp.sp
 "dianji\startup_stm32f446xx.o"
+"dianji\main.o"
 "dianji\gpio.o"
 "dianji\adc.o"
 "dianji\dma.o"
@@ -9,7 +10,6 @@
 "dianji\stm32f4xx_it.o"
 "dianji\stm32f4xx_hal_msp.o"
 "dianji\mpu6500.o"
-"dianji\main.o"
 "dianji\stm32f4xx_hal_adc.o"
 "dianji\stm32f4xx_hal_adc_ex.o"
 "dianji\stm32f4xx_ll_adc.o"

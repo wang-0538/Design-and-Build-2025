@@ -8,7 +8,7 @@ dianji\tim.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_def.h
 dianji\tim.o: ../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h
 dianji\tim.o: ../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f446xx.h
 dianji\tim.o: ../Drivers/CMSIS/Include/core_cm4.h
-dianji\tim.o: D:\Keil\ARM\ARMCC\Bin\..\include\stdint.h
+dianji\tim.o: D:\Program\Software\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
 dianji\tim.o: ../Drivers/CMSIS/Include/cmsis_version.h
 dianji\tim.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
 dianji\tim.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
@@ -16,7 +16,7 @@ dianji\tim.o: ../Drivers/CMSIS/Include/mpu_armv7.h
 dianji\tim.o: ../Drivers/CMSIS/Device/ST/STM32F4xx/Include/system_stm32f4xx.h
 dianji\tim.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h
 dianji\tim.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h
-dianji\tim.o: D:\Keil\ARM\ARMCC\Bin\..\include\stddef.h
+dianji\tim.o: D:\Program\Software\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
 dianji\tim.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h
 dianji\tim.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio.h
 dianji\tim.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio_ex.h
