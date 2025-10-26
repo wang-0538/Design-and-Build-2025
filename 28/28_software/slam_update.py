@@ -1,8 +1,3 @@
-"""
-真实小车SLAM迷宫探索系统（完整版）
-基于正确的仿真代码，适配真实小车
-"""
-
 import asyncio
 import numpy as np
 import matplotlib.pyplot as plt
@@ -1497,5 +1492,6 @@ if __name__ == "__main__":
         """)
     
     asyncio.run(main())
+
 
 
